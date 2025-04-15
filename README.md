@@ -1,2 +1,2 @@
 # autocompiler
-A autocompiler made to c++  arquives 
+An autocompiler made to c++  arquives 
